@@ -1,2 +1,2 @@
-# Shop
+# Project
 This was my first ever program
