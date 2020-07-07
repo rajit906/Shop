@@ -1,2 +1,2 @@
 # Shop
-This was my first ever long program
+This was my first ever long project
