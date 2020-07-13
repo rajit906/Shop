@@ -1,2 +1,2 @@
 # Shop
-This was my first ever project
+The backend of my school store management software
